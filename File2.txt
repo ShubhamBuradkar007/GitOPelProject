@@ -1,9 +1,12 @@
 change request 1-
 
-For updating adding itemss
+For updating adding items
 
-change - the file to check push to remote server
+change 1 - from team member on remote server
 
-change - from team member on remote server
+change 2 the file to check  -> push to remote server
 
-Change - made by team mate 
+change 4 from team member -> on remote server
+
+change 3 -> at local master
+ 
